@@ -1,0 +1,21 @@
+{
+  "name": "bower-sample",
+  "homepage": "https://github.com/murilobeltrame/bower-sample",
+  "authors": [
+    "Murilo Beltrame <murilobeltrame@gmail.com>"
+  ],
+  "description": "A sample bower package",
+  "main": "",
+  "keywords": [
+    "bower",
+    "sample"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
